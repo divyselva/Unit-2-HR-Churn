@@ -1,3 +1,4 @@
+# Project Overview
 ### Problem Statement:
 
 * Wants to know why high performers are churning
@@ -36,4 +37,18 @@
 * important factors affecting churning for overall company
 * factors affecting churning in high performers
 * Pockets of churners (high likelihood of churning) 
+
+## CONCLUSION
+* The main points for why the high performing employees are churning: 
+  * They feel unsatisfied 
+  * Feel overworked (*long hours, too many projects*)
+  * Have spent a long time at the company
+  * Not enough promotions
+  * Low salary levels
+  
+ #### Future Works
+ * Further advance the model by:
+  * Identifying how the factors may relate to each other - *Can use other methods to find what causes employees on the verge of churning to churn*
+  * Use the model and insights to design a program that is targeted towards the employees you want to retain 
+
 
